@@ -6,7 +6,7 @@
     "license": "MIT",
     "author": "Microsoft",
     "scripts": {
-        "start": "node index.js",
+        "start": "/opt/node-v19.0.1-linux-x64/bin/node index.js",
         "dev": "nodemon"
     },
     "dependencies": {
